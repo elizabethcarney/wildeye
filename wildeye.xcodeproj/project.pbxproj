@@ -9,21 +9,23 @@
 /* Begin PBXBuildFile section */
 		552518E32478397100DFF445 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 552518E22478397100DFF445 /* AppDelegate.swift */; };
 		552518E52478397100DFF445 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 552518E42478397100DFF445 /* SceneDelegate.swift */; };
-		552518E72478397100DFF445 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 552518E62478397100DFF445 /* ViewController.swift */; };
 		552518EA2478397100DFF445 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 552518E82478397100DFF445 /* Main.storyboard */; };
 		552518EC2478397600DFF445 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 552518EB2478397600DFF445 /* Assets.xcassets */; };
 		552518EF2478397600DFF445 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 552518ED2478397600DFF445 /* LaunchScreen.storyboard */; };
+		552519192478A7B800DFF445 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 552519182478A7B800DFF445 /* ViewController.swift */; };
+		5525191B24797DCB00DFF445 /* ToFindItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5525191A24797DCB00DFF445 /* ToFindItem.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		552518DF2478397100DFF445 /* wildeye.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = wildeye.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		552518DF2478397100DFF445 /* WildEye.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WildEye.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		552518E22478397100DFF445 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		552518E42478397100DFF445 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		552518E62478397100DFF445 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		552518E92478397100DFF445 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		552518EB2478397600DFF445 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		552518EE2478397600DFF445 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		552518F02478397600DFF445 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		552519182478A7B800DFF445 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		5525191A24797DCB00DFF445 /* ToFindItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToFindItem.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -48,7 +50,7 @@
 		552518E02478397100DFF445 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				552518DF2478397100DFF445 /* wildeye.app */,
+				552518DF2478397100DFF445 /* WildEye.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -58,11 +60,12 @@
 			children = (
 				552518E22478397100DFF445 /* AppDelegate.swift */,
 				552518E42478397100DFF445 /* SceneDelegate.swift */,
-				552518E62478397100DFF445 /* ViewController.swift */,
 				552518E82478397100DFF445 /* Main.storyboard */,
 				552518EB2478397600DFF445 /* Assets.xcassets */,
 				552518ED2478397600DFF445 /* LaunchScreen.storyboard */,
 				552518F02478397600DFF445 /* Info.plist */,
+				552519182478A7B800DFF445 /* ViewController.swift */,
+				5525191A24797DCB00DFF445 /* ToFindItem.swift */,
 			);
 			path = wildeye;
 			sourceTree = "<group>";
@@ -84,7 +87,7 @@
 			);
 			name = wildeye;
 			productName = wildeye;
-			productReference = 552518DF2478397100DFF445 /* wildeye.app */;
+			productReference = 552518DF2478397100DFF445 /* WildEye.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -138,9 +141,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				552518E72478397100DFF445 /* ViewController.swift in Sources */,
 				552518E32478397100DFF445 /* AppDelegate.swift in Sources */,
+				5525191B24797DCB00DFF445 /* ToFindItem.swift in Sources */,
 				552518E52478397100DFF445 /* SceneDelegate.swift in Sources */,
+				552519192478A7B800DFF445 /* ViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -285,13 +289,15 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = R96S43CX3B;
 				INFOPLIST_FILE = wildeye/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.3;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.elizabethcarney.wildeye;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = WildEye;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
@@ -302,13 +308,15 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = R96S43CX3B;
 				INFOPLIST_FILE = wildeye/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.3;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.elizabethcarney.wildeye;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = WildEye;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
