@@ -165,6 +165,33 @@ class ViewController: UITableViewController {
         tableView.insertRows(at: [IndexPath(row: newIndex, section: 0)], with: .top)
     
     }
+    
+    private func getPhoto() {
+        
+        let photoURL = URL(string: "https://plants.sc.egov.usda.gov/gallery/standard/echin4_001_svp.jpg")!
+        
+        let session = URLSession(configuration: .default)
+        let downloadPicTask = session.dataTask(with: photoURL) { (data, response, error) in
+            if let e = error {
+                print("Error downloading photo: \(e)")
+            } else {
+                if let res = response as? HTTPURLResponse {
+                    print("Downloaded photo with code \(res.statusCode)")
+                    if let imageData = data {
+                        let image = UIImage(data: imageData)
+                        // Do something with the image.
+                    } else {
+                        print("Couldn't get image: Image is nil")
+                    }
+                } else {
+                    print("Couldn't get response code")
+                }
+            }
+        }
+        downloadPicTask.resume()
+        
+    }
+    
 
 }
 

@@ -1,0 +1,1770 @@
+[
+    {
+        "Symbol": "ABAB70",
+        "Common_Name": "abietinella moss",
+        "State_and_Province": "NJ",
+        "Category": "Moss",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ABAB70_001_shp.jpg"
+    },
+    {
+        "Symbol": "ABAL3",
+        "Common_Name": "silver fir",
+        "State_and_Province": "NC",
+        "Category": "Gymnosperm",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ABAL3_001_shp.jpg"
+    },
+    {
+        "Symbol": "ABAM",
+        "Common_Name": "Pacific silver fir",
+        "State_and_Province": "AK, CA, OR, WA",
+        "Category": "Gymnosperm",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ABAM_001_shp.jpg"
+    },
+    {
+        "Symbol": "ABAM2",
+        "Common_Name": "Amelia's sand verbena",
+        "State_and_Province": "TX",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ABAM2_001_shp.jpg"
+    },
+    {
+        "Symbol": "ABAN",
+        "Common_Name": "purple sand verbena",
+        "State_and_Province": "AZ, NM, TX",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ABAN_001_shp.jpg"
+    },
+    {
+        "Symbol": "ABBA",
+        "Common_Name": "balsam fir",
+        "State_and_Province": "CT, IA, IN, MA, MD, ME, MI, MN, NH, NJ, NY, OH, PA, RI, VA, VT, WI, WV",
+        "Category": "Gymnosperm",
+        "Active_Growth_Period": "Spring and Summer",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ABBA_002_shp.jpg"
+    },
+    {
+        "Symbol": "ABBR",
+        "Common_Name": "bristlecone fir",
+        "State_and_Province": "CA",
+        "Category": "Gymnosperm",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ABBR_001_shp.jpg"
+    },
+    {
+        "Symbol": "ABCO",
+        "Common_Name": "white fir",
+        "State_and_Province": "AZ, CO, ID, MA, ME, NM, NV, OR, UT, WY",
+        "Category": "Gymnosperm",
+        "Active_Growth_Period": "Spring and Summer",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ABCO_001_shp.jpg"
+    },
+    {
+        "Symbol": "ABES",
+        "Common_Name": "okra",
+        "State_and_Province": "CT, DC, FL, IL, KY, LA, MD, MI, MS, NC, SC, VA",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ABES_001_shp.jpg"
+    },
+    {
+        "Symbol": "ABFR",
+        "Common_Name": "Fraser fir",
+        "State_and_Province": "GA, NC, TN, VA",
+        "Category": "Gymnosperm",
+        "Active_Growth_Period": "Spring and Summer",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ABFR_002_shp.jpg"
+    },
+    {
+        "Symbol": "ABFR2",
+        "Common_Name": "snowball sand verbena",
+        "State_and_Province": "AZ, CO, KS, MT, ND, NE, NM, OK, SD, TX, UT, WA, WY",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ABFR2_002_shp.jpg"
+    },
+    {
+        "Symbol": "ABGR",
+        "Common_Name": "grand fir",
+        "State_and_Province": "CA, ID, MT, OR, WA",
+        "Category": "Gymnosperm",
+        "Active_Growth_Period": "Spring and Summer",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ABGR_001_shp.jpg"
+    },
+    {
+        "Symbol": "ABGR4",
+        "Common_Name": "glossy abelia",
+        "State_and_Province": "FL, NC",
+        "Category": "Dicot",
+        "Active_Growth_Period": "Spring and Summer",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ABGR4_001_svp.jpg"
+    },
+    {
+        "Symbol": "ABHI",
+        "Common_Name": "Florida Keys Indian mallow",
+        "State_and_Province": "FL",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ABHI_001_shp.jpg"
+    },
+    {
+        "Symbol": "ABIES",
+        "Common_Name": "fir",
+        "State_and_Province": "AK, AZ, CA, CO, CT, GA, IA, ID, IN, MA, MD, ME, MI, MN, MT, NC, NH, NJ, NM, NV, NY, OH, OR, PA, RI, TN, UT, VA, VT, WA, WI, WV, WY",
+        "Category": "Gymnosperm",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ABIES_001_shp.jpg"
+    },
+    {
+        "Symbol": "ABIN",
+        "Common_Name": "pelotazo",
+        "State_and_Province": "AZ, CO, HI, NM",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ABIN_001_shp.jpg"
+    },
+    {
+        "Symbol": "ABLA",
+        "Common_Name": "subalpine fir",
+        "State_and_Province": "AK, AZ, CA, CO, ID, MT, NM, NV, OR, UT, WA, WY",
+        "Category": "Gymnosperm",
+        "Active_Growth_Period": "Spring and Summer",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ABLA_001_shp.jpg"
+    },
+    {
+        "Symbol": "ABLA2",
+        "Common_Name": "coastal sand verbena",
+        "State_and_Province": "CA, OR, WA",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ABLA2_001_shp.jpg"
+    },
+    {
+        "Symbol": "ABLAA",
+        "Common_Name": "corkbark fir",
+        "State_and_Province": "AZ, CO, NM",
+        "Category": "Gymnosperm",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ABLAA_001_shp.jpg"
+    },
+    {
+        "Symbol": "ABLAL",
+        "Common_Name": "subalpine fir",
+        "State_and_Province": "AK, AZ, CA, CO, ID, MT, NM, NV, OR, UT, WA, WY",
+        "Category": "Gymnosperm",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ABLAL_001_svp.jpg"
+    },
+    {
+        "Symbol": "ABMA",
+        "Common_Name": "California red fir",
+        "State_and_Province": "CA, NV, NY, OR",
+        "Category": "Gymnosperm",
+        "Active_Growth_Period": "Spring and Summer",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ABMA_002_svp.jpg"
+    },
+    {
+        "Symbol": "ABMA2",
+        "Common_Name": "red sand verbena",
+        "State_and_Province": "CA",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ABMA2_001_shp.jpg"
+    },
+    {
+        "Symbol": "ABME",
+        "Common_Name": "white sand verbena",
+        "State_and_Province": "ID, OR, UT, WA, WY",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ABME_001_shp.jpg"
+    },
+    {
+        "Symbol": "ABMO",
+        "Common_Name": "musk okra",
+        "State_and_Province": "HI",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ABMO_001_svp.jpg"
+    },
+    {
+        "Symbol": "ABNA",
+        "Common_Name": "dwarf sand verbena",
+        "State_and_Province": "AZ, CA, CO, NM, NV, UT",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ABNA_001_shp.jpg"
+    },
+    {
+        "Symbol": "ABPO",
+        "Common_Name": "Mojave sand verbena",
+        "State_and_Province": "CA, NV",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ABPO_001_shp.jpg"
+    },
+    {
+        "Symbol": "ABPR",
+        "Common_Name": "noble fir",
+        "State_and_Province": "CA, OR, WA",
+        "Category": "Gymnosperm",
+        "Active_Growth_Period": "Spring and Summer",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ABPR_001_shp.jpg"
+    },
+    {
+        "Symbol": "ABPR3",
+        "Common_Name": "rosarypea",
+        "State_and_Province": "AL, AR, FL, GA, HI",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ABPR3_001_shp.jpg"
+    },
+    {
+        "Symbol": "ABTH",
+        "Common_Name": "velvetleaf",
+        "State_and_Province": "AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ABTH_001_svp.jpg"
+    },
+    {
+        "Symbol": "ABTU",
+        "Common_Name": "transmontane sand verbena",
+        "State_and_Province": "CA, NV, OR",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ABTU_001_shp.jpg"
+    },
+    {
+        "Symbol": "ABUM",
+        "Common_Name": "pink sand verbena",
+        "State_and_Province": "CA, OR, WA",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ABUM_001_shp.jpg"
+    },
+    {
+        "Symbol": "ABUMU",
+        "Common_Name": "pink sand verbena",
+        "State_and_Province": "CA",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ABUMU_001_shp.jpg"
+    },
+    {
+        "Symbol": "ABUTI",
+        "Common_Name": "Indian mallow",
+        "State_and_Province": "AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, HI, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MP, MS, MT, NC, ND, NE, NH, NJ, NM, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UM, UT, VA, VT, WA, WI, WV, WY",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ABUTI_001_shp.jpg"
+    },
+    {
+        "Symbol": "ABVI",
+        "Common_Name": "desert sand verbena",
+        "State_and_Province": "AZ, CA, NV, UT",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ABVI_001_shp.jpg"
+    },
+    {
+        "Symbol": "ABVIA",
+        "Common_Name": "desert sand verbena",
+        "State_and_Province": "AZ, CA",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ABVIA_001_shp.jpg"
+    },
+    {
+        "Symbol": "ABVIV",
+        "Common_Name": "desert sand verbena",
+        "State_and_Province": "AZ, CA, NV, UT",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ABVIV_001_shp.jpg"
+    },
+    {
+        "Symbol": "ACACI",
+        "Common_Name": "acacia",
+        "State_and_Province": "AL, AR, AZ, CA, FL, GA, HI, KS, LA, MD, MO, MS, NM, NV, OK, OR, TX, UM, UT, VA",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACACI_002_shp.jpg"
+    },
+    {
+        "Symbol": "ACAM",
+        "Common_Name": "sweetflag",
+        "State_and_Province": "AK, CT, DC, DE, IA, ID, IL, IN, MA, ME, MI, MN, MT, ND, NE, NH, NJ, NY, OH, PA, RI, SD, VA, VT, WA, WI",
+        "Category": "Monocot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACAM_001_svp.jpg"
+    },
+    {
+        "Symbol": "ACAMW",
+        "Common_Name": "Wilkes' acalypha",
+        "State_and_Province": "FL",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACAMW_001_svp.jpg"
+    },
+    {
+        "Symbol": "ACAN",
+        "Common_Name": "prairie acacia",
+        "State_and_Province": "AR, AZ, FL, KS, LA, MO, NM, OK, TX",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACAN_002_shp.jpg"
+    },
+    {
+        "Symbol": "ACAN10",
+        "Common_Name": "mulga",
+        "State_and_Province": "HI",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACAN10_001_shp.jpg"
+    },
+    {
+        "Symbol": "ACANT6",
+        "Common_Name": "triangle cactus",
+        "State_and_Province": "FL, HI, TX",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACANT6_001_shp.jpg"
+    },
+    {
+        "Symbol": "ACANT7",
+        "Common_Name": "acanthus",
+        "State_and_Province": "CA",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACANT7_001_shp.jpg"
+    },
+    {
+        "Symbol": "ACAU3",
+        "Common_Name": "golden leatherfern",
+        "State_and_Province": "FL, HI",
+        "Category": "Fern",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACAU3_001_shp.jpg"
+    },
+    {
+        "Symbol": "ACBA",
+        "Common_Name": "cootamundra wattle",
+        "State_and_Province": "CA",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACBA_001_shp.jpg"
+    },
+    {
+        "Symbol": "ACBE",
+        "Common_Name": "guajillo",
+        "State_and_Province": "TX",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACBE_001_shp.jpg"
+    },
+    {
+        "Symbol": "ACCA4",
+        "Common_Name": "calamus",
+        "State_and_Province": "AL, AR, CA, CO, CT, DC, DE, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, NE, NH, NJ, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, VA, VT, WA, WI, WV",
+        "Category": "Monocot",
+        "Active_Growth_Period": "Spring and Summer",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACCA4_002_shp.jpg"
+    },
+    {
+        "Symbol": "ACCA5",
+        "Common_Name": "hedge maple",
+        "State_and_Province": "CA, IN, KY, MA, NJ, NY, OH, PA",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACCA5_001_svp.jpg"
+    },
+    {
+        "Symbol": "ACCH5",
+        "Common_Name": "kiwi",
+        "State_and_Province": "AR",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACCH5_001_shp.jpg"
+    },
+    {
+        "Symbol": "ACCI",
+        "Common_Name": "vine maple",
+        "State_and_Province": "AK, CA, OR, WA",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACCI_001_svp.jpg"
+    },
+    {
+        "Symbol": "ACCO",
+        "Common_Name": "small Philippine acacia",
+        "State_and_Province": "HI",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACCO_001_shp.jpg"
+    },
+    {
+        "Symbol": "ACCO2",
+        "Common_Name": "whitethorn acacia",
+        "State_and_Province": "AZ, MD, NM, TX, VA",
+        "Category": "Dicot",
+        "Active_Growth_Period": "Spring and Summer",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACCO2_001_shp.jpg"
+    },
+    {
+        "Symbol": "ACCO4",
+        "Common_Name": "Columbian monkshood",
+        "State_and_Province": "AZ, CA, CO, IA, ID, MT, NM, NV, OR, SD, UT, WA, WY",
+        "Category": "Dicot",
+        "Active_Growth_Period": "Spring and Summer",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACCO4_001_shp.jpg"
+    },
+    {
+        "Symbol": "ACCO5",
+        "Common_Name": "bullhorn wattle",
+        "State_and_Province": "FL",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACCO5_001_shp.jpg"
+    },
+    {
+        "Symbol": "ACCOC3",
+        "Common_Name": "Columbian monkshood",
+        "State_and_Province": "AZ, CA, CO, IA, ID, MT, NM, NV, OR, SD, UT, WA, WY",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACCOC3_001_shp.jpg"
+    },
+    {
+        "Symbol": "ACCY2",
+        "Common_Name": "coastal wattle",
+        "State_and_Province": "CA",
+        "Category": "Dicot",
+        "Active_Growth_Period": "Spring and Summer",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACCY2_001_shp.jpg"
+    },
+    {
+        "Symbol": "ACDE",
+        "Common_Name": "green wattle",
+        "State_and_Province": "CA",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACDE_001_shp.jpg"
+    },
+    {
+        "Symbol": "ACDE3",
+        "Common_Name": "silver wattle",
+        "State_and_Province": "CA, OR",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACDE3_001_shp.jpg"
+    },
+    {
+        "Symbol": "ACDED3",
+        "Common_Name": "larkspurleaf monkshood",
+        "State_and_Province": "AK",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACDED3_001_svp.jpg"
+    },
+    {
+        "Symbol": "ACEL",
+        "Common_Name": "cedar wattle",
+        "State_and_Province": "CA",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACEL_001_shp.jpg"
+    },
+    {
+        "Symbol": "ACER",
+        "Common_Name": "maple",
+        "State_and_Province": "AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACER_002_svp.jpg"
+    },
+    {
+        "Symbol": "ACFA",
+        "Common_Name": "sweet acacia",
+        "State_and_Province": "AL, AZ, CA, FL, GA, HI, LA, MS, NM, TX, UM",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACFA_001_shp.jpg"
+    },
+    {
+        "Symbol": "ACFI",
+        "Common_Name": "fernleaf yarrow",
+        "State_and_Province": "CA, MI, NY, UT, VT",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACFI_001_shp.jpg"
+    },
+    {
+        "Symbol": "ACGI",
+        "Common_Name": "Amur maple",
+        "State_and_Province": "CT, IA, IL, KY, MA, ME, MI, MN, ND, NH, NJ, NY, OH, PA, VT, WI",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACGI_001_svp.jpg"
+    },
+    {
+        "Symbol": "ACGL",
+        "Common_Name": "Rocky Mountain maple",
+        "State_and_Province": "AK, AZ, CA, CO, ID, MT, NE, NM, NV, OR, SD, UT, WA, WY",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACGL_002_shp.jpg"
+    },
+    {
+        "Symbol": "ACGLD3",
+        "Common_Name": "Rocky Mountain maple",
+        "State_and_Province": "AZ, CA, NV, UT",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACGLD3_001_shp.jpg"
+    },
+    {
+        "Symbol": "ACGLD4",
+        "Common_Name": "Douglas maple",
+        "State_and_Province": "AK, CA, ID, MT, NV, OR, WA, WY",
+        "Category": "Dicot",
+        "Active_Growth_Period": "Spring and Summer",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACGLD4_001_shp.jpg"
+    },
+    {
+        "Symbol": "ACGLT2",
+        "Common_Name": "Torrey maple",
+        "State_and_Province": "CA, NV, OR",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACGLT2_001_shp.jpg"
+    },
+    {
+        "Symbol": "ACGR",
+        "Common_Name": "catclaw acacia",
+        "State_and_Province": "AZ, CA, NM, NV, TX, UT",
+        "Category": "Dicot",
+        "Active_Growth_Period": "Spring and Summer",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACGR_001_shp.jpg"
+    },
+    {
+        "Symbol": "ACGR2",
+        "Common_Name": "slender threeseed mercury",
+        "State_and_Province": "AL, AR, CT, DC, DE, FL, GA, IA, IL, IN, KY, LA, MA, MD, ME, MI, MO, MS, NC, NH, NJ, NY, OH, OK, PA, RI, SC, TN, TX, VA, VT, WI, WV",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACGR2_002_svp.jpg"
+    },
+    {
+        "Symbol": "ACGR3",
+        "Common_Name": "bigtooth maple",
+        "State_and_Province": "AZ, CO, ID, MT, NM, NV, TX, UT, WA, WY",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACGR3_001_shp.jpg"
+    },
+    {
+        "Symbol": "ACHI",
+        "Common_Name": "hispid starbur",
+        "State_and_Province": "AL, FL, GA, HI, NJ, NY, OR, SC, VA",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACHI_001_shp.jpg"
+    },
+    {
+        "Symbol": "ACHIL",
+        "Common_Name": "yarrow",
+        "State_and_Province": "AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, HI, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACHIL_001_shp.jpg"
+    },
+    {
+        "Symbol": "ACHY",
+        "Common_Name": "Indian ricegrass",
+        "State_and_Province": "AR, AZ, CA, CO, ID, KS, MN, MT, ND, NE, NM, NV, OK, OR, SD, TX, UT, WA, WY",
+        "Category": "Monocot",
+        "Active_Growth_Period": "Spring, Summer, Fall",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACHY_001_svp.jpg"
+    },
+    {
+        "Symbol": "ACIL",
+        "Common_Name": "San Diego thorn-mint",
+        "State_and_Province": "CA",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACIL_001_shp.jpg"
+    },
+    {
+        "Symbol": "ACJA2",
+        "Common_Name": "Amur maple",
+        "State_and_Province": "NJ",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACJA2_001_svp.jpg"
+    },
+    {
+        "Symbol": "ACKO",
+        "Common_Name": "koa",
+        "State_and_Province": "HI",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACKO_001_svp.jpg"
+    },
+    {
+        "Symbol": "ACLO",
+        "Common_Name": "Sydney golden wattle",
+        "State_and_Province": "CA",
+        "Category": "Dicot",
+        "Active_Growth_Period": "Spring and Summer",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACLO_001_shp.jpg"
+    },
+    {
+        "Symbol": "ACLO2",
+        "Common_Name": "angel's trumpets",
+        "State_and_Province": "AZ, CA, NM, TX",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACLO2_001_shp.jpg"
+    },
+    {
+        "Symbol": "ACMA",
+        "Common_Name": "porknut",
+        "State_and_Province": "FL, GA, NM",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACMA_001_shp.jpg"
+    },
+    {
+        "Symbol": "ACMA3",
+        "Common_Name": "bigleaf maple",
+        "State_and_Province": "CA, OR, WA",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACMA3_001_shp.jpg"
+    },
+    {
+        "Symbol": "ACME",
+        "Common_Name": "blackwood",
+        "State_and_Province": "CA, HI",
+        "Category": "Dicot",
+        "Active_Growth_Period": "Spring and Summer",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACME_001_shp.jpg"
+    },
+    {
+        "Symbol": "ACME80",
+        "Common_Name": "black wattle",
+        "State_and_Province": "CA, HI",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACME80_001_shp.jpg"
+    },
+    {
+        "Symbol": "ACMI2",
+        "Common_Name": "common yarrow",
+        "State_and_Province": "AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, HI, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY",
+        "Category": "Dicot",
+        "Active_Growth_Period": "Spring",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACMI2_002_svp.jpg"
+    },
+    {
+        "Symbol": "ACMIO",
+        "Common_Name": "western yarrow",
+        "State_and_Province": "AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY",
+        "Category": "Dicot",
+        "Active_Growth_Period": "Spring",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACMIO_001_shp.jpg"
+    },
+    {
+        "Symbol": "ACMO8",
+        "Common_Name": "bear's breech",
+        "State_and_Province": "CA",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACMO8_001_shp.jpg"
+    },
+    {
+        "Symbol": "ACMU5",
+        "Common_Name": "acaulon moss",
+        "State_and_Province": "NY",
+        "Category": "Moss",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACMU5_001_shp.jpg"
+    },
+    {
+        "Symbol": "ACNA",
+        "Common_Name": "Venus' chariot",
+        "State_and_Province": "CT, MA, ME, MI, MN, NH, NY, PA, VT, WI",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACNA_001_svp.jpg"
+    },
+    {
+        "Symbol": "ACNA2",
+        "Common_Name": "dwarf desertpeony",
+        "State_and_Province": "AZ, NM, TX",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACNA2_001_shp.jpg"
+    },
+    {
+        "Symbol": "ACNE",
+        "Common_Name": "New Mexico copperleaf",
+        "State_and_Province": "AZ, NM, TX",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACNE_001_svp.jpg"
+    },
+    {
+        "Symbol": "ACNE2",
+        "Common_Name": "boxelder",
+        "State_and_Province": "AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY",
+        "Category": "Dicot",
+        "Active_Growth_Period": "Spring and Summer",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACNE2_002_shp.jpg"
+    },
+    {
+        "Symbol": "ACNEN",
+        "Common_Name": "boxelder",
+        "State_and_Province": "AL, AR, CO, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, ND, NE, NH, NJ, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACNEN_001_svp.jpg"
+    },
+    {
+        "Symbol": "ACNEN2",
+        "Common_Name": "Columbia needlegrass",
+        "State_and_Province": "AZ, CO, ID, MT, NM, NV, UT, WY",
+        "Category": "Monocot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACNEN2_001_svp.jpg"
+    },
+    {
+        "Symbol": "ACNI5",
+        "Common_Name": "black maple",
+        "State_and_Province": "AL, AR, CT, DC, DE, GA, IA, IL, IN, KS, KY, MA, MD, MI, MN, MO, NC, NH, NJ, NY, OH, PA, SD, TN, VA, VT, WI, WV",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACNI5_002_shp.jpg"
+    },
+    {
+        "Symbol": "ACONI",
+        "Common_Name": "monkshood",
+        "State_and_Province": "AK, AL, AZ, CA, CO, CT, DC, GA, IA, ID, IL, IN, KY, MA, MD, ME, MI, MN, MO, MT, NC, NH, NM, NV, NY, OH, OR, PA, SC, SD, TN, UT, VA, VT, WA, WI, WV, WY",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACONI_001_shp.jpg"
+    },
+    {
+        "Symbol": "ACOP",
+        "Common_Name": "oppositeleaf spotflower",
+        "State_and_Province": "AL, AR, FL, GA, LA, MO, MS, NC, OK, SC, TN, TX",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACOP_001_svp.jpg"
+    },
+    {
+        "Symbol": "ACOPR",
+        "Common_Name": "oppositeleaf spotflower",
+        "State_and_Province": "AL, AR, FL, GA, LA, MO, MS, NC, OK, SC, TN, TX",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACOPR_001_shp.jpg"
+    },
+    {
+        "Symbol": "ACPA",
+        "Common_Name": "white baneberry",
+        "State_and_Province": "AL, AR, CT, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, NE, NH, NJ, NY, OH, OK, PA, RI, SC, TN, VA, VT, WI, WV",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACPA_001_svp.jpg"
+    },
+    {
+        "Symbol": "ACPA13",
+        "Common_Name": "Parish's needlegrass",
+        "State_and_Province": "AZ, CA, NV, UT",
+        "Category": "Monocot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACPA13_001_svp.jpg"
+    },
+    {
+        "Symbol": "ACPA2",
+        "Common_Name": "Japanese maple",
+        "State_and_Province": "CT, DC, DE, NJ, NY, OH, PA",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACPA2_001_shp.jpg"
+    },
+    {
+        "Symbol": "ACPA81",
+        "Common_Name": "South Wales wattle",
+        "State_and_Province": "HI",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACPA81_001_shp.jpg"
+    },
+    {
+        "Symbol": "ACPE",
+        "Common_Name": "striped maple",
+        "State_and_Province": "CT, GA, KY, MA, MD, ME, MI, MN, NC, NH, NJ, NY, OH, PA, RI, SC, TN, VA, VT, WI, WV",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACPE_002_svp.jpg"
+    },
+    {
+        "Symbol": "ACPI",
+        "Common_Name": "pineland wattle",
+        "State_and_Province": "FL",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACPI_001_shp.jpg"
+    },
+    {
+        "Symbol": "ACPI3",
+        "Common_Name": "Argentinian biddy-biddy",
+        "State_and_Province": "CA",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACPI3_001_shp.jpg"
+    },
+    {
+        "Symbol": "ACPL",
+        "Common_Name": "Norway maple",
+        "State_and_Province": "CT, DC, DE, ID, IL, IN, KY, MA, MD, ME, MI, MN, MT, NC, NH, NJ, NY, OH, OR, PA, RI, TN, VA, VT, WA, WI, WV",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACPL_001_shp.jpg"
+    },
+    {
+        "Symbol": "ACPO2",
+        "Common_Name": "pearl wattle",
+        "State_and_Province": "CA",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACPO2_001_shp.jpg"
+    },
+    {
+        "Symbol": "ACPS",
+        "Common_Name": "sycamore maple",
+        "State_and_Province": "CT, DC, DE, IL, KY, MA, MD, ME, MI, NC, NJ, NY, PA, RI",
+        "Category": "Dicot",
+        "Active_Growth_Period": "Spring and Summer",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACPS_001_shp.jpg"
+    },
+    {
+        "Symbol": "ACPY3",
+        "Common_Name": "golden wattle",
+        "State_and_Province": "CA",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACPY3_001_shp.jpg"
+    },
+    {
+        "Symbol": "ACRA6",
+        "Common_Name": "goosegrass",
+        "State_and_Province": "CA",
+        "Category": "Monocot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACRA6_001_shp.jpg"
+    },
+    {
+        "Symbol": "ACRE3",
+        "Common_Name": "hardheads",
+        "State_and_Province": "AR, AZ, CA, CO, IA, ID, IL, IN, KS, KY, MI, MN, MO, MT, ND, NE, NM, NV, OH, OK, OR, SD, TX, UT, WA, WI, WY",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACRE3_001_shp.jpg"
+    },
+    {
+        "Symbol": "ACRI",
+        "Common_Name": "blackbrush acacia",
+        "State_and_Province": "TX",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACRI_001_shp.jpg"
+    },
+    {
+        "Symbol": "ACRO",
+        "Common_Name": "roundflower catclaw",
+        "State_and_Province": "NM, TX",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACRO_001_shp.jpg"
+    },
+    {
+        "Symbol": "ACRU",
+        "Common_Name": "red maple",
+        "State_and_Province": "AL, AR, CT, DC, DE, FL, GA, IA, IL, IN, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, NH, NJ, NY, OH, OK, OR, PA, RI, SC, TN, TX, VA, VT, WI, WV",
+        "Category": "Dicot",
+        "Active_Growth_Period": "Spring and Summer",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACRU_002_shp.jpg"
+    },
+    {
+        "Symbol": "ACRU2",
+        "Common_Name": "red baneberry",
+        "State_and_Province": "AK, AZ, CA, CO, CT, IA, ID, IL, IN, KS, MA, ME, MI, MN, MT, ND, NE, NH, NJ, NM, NV, NY, OH, OR, PA, RI, SD, UT, VT, WA, WI, WY",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACRU2_002_svp.jpg"
+    },
+    {
+        "Symbol": "ACRU3",
+        "Common_Name": "featherleaf desertpeony",
+        "State_and_Province": "TX",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACRU3_001_shp.jpg"
+    },
+    {
+        "Symbol": "ACRUA8",
+        "Common_Name": "red baneberry",
+        "State_and_Province": "AK, AZ, CA, CO, ID, MT, NM, NV, OR, UT, WA, WY",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACRUA8_001_shp.jpg"
+    },
+    {
+        "Symbol": "ACRUD",
+        "Common_Name": "Drummond's maple",
+        "State_and_Province": "AL, AR, DE, FL, GA, IL, IN, KY, LA, MO, MS, NC, NJ, OK, SC, TN, TX, VA",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACRUD_001_shp.jpg"
+    },
+    {
+        "Symbol": "ACSA",
+        "Common_Name": "orange wattle",
+        "State_and_Province": "CA",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACSA_001_shp.jpg"
+    },
+    {
+        "Symbol": "ACSA2",
+        "Common_Name": "silver maple",
+        "State_and_Province": "AL, AR, CA, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, ND, NE, NH, NJ, NM, NY, OH, OK, PA, RI, SC, SD, TN, TX, VA, VT, WA, WI, WV",
+        "Category": "Dicot",
+        "Active_Growth_Period": "Spring and Summer",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACSA2_002_shp.jpg"
+    },
+    {
+        "Symbol": "ACSA3",
+        "Common_Name": "sugar maple",
+        "State_and_Province": "AL, AR, CT, DE, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, ND, NH, NJ, NY, OH, OK, PA, RI, SD, TN, VA, VT, WI, WV",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACSA3_002_svp.jpg"
+    },
+    {
+        "Symbol": "ACSC2",
+        "Common_Name": "Schaffner's wattle",
+        "State_and_Province": "TX",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACSC2_001_shp.jpg"
+    },
+    {
+        "Symbol": "ACSC5",
+        "Common_Name": "Schleicher's cracked lichen",
+        "State_and_Province": "ID, NV",
+        "Category": "Lichen",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACSC5_001_shp.jpg"
+    },
+    {
+        "Symbol": "ACSH",
+        "Common_Name": "Shockley's goldenhead",
+        "State_and_Province": "CA, NV",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACSH_001_shp.jpg"
+    },
+    {
+        "Symbol": "ACSP12",
+        "Common_Name": "desert needlegrass",
+        "State_and_Province": "AZ, CA, CO, NM, NV, OR, UT",
+        "Category": "Monocot",
+        "Active_Growth_Period": "Spring and Summer",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACSP12_001_shp.jpg"
+    },
+    {
+        "Symbol": "ACSP2",
+        "Common_Name": "mountain maple",
+        "State_and_Province": "AL, CT, GA, IA, KY, MA, MD, ME, MI, MN, NC, NH, NJ, NY, OH, PA, RI, TN, VA, VT, WI, WV",
+        "Category": "Dicot",
+        "Active_Growth_Period": "Spring and Summer",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACSP2_002_shp.jpg"
+    },
+    {
+        "Symbol": "ACSP4",
+        "Common_Name": "bee wattle",
+        "State_and_Province": "FL",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACSP4_001_shp.jpg"
+    },
+    {
+        "Symbol": "ACTA80",
+        "Common_Name": "tatarian maple",
+        "State_and_Province": "MA, MN, OH, RI",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACTA80_001_svp.jpg"
+    },
+    {
+        "Symbol": "ACTH7",
+        "Common_Name": "Thurber's needlegrass",
+        "State_and_Province": "CA, CO, ID, MT, NV, OR, UT, WA, WY",
+        "Category": "Monocot",
+        "Active_Growth_Period": "Spring and Summer",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACTH7_001_svp.jpg"
+    },
+    {
+        "Symbol": "ACTO",
+        "Common_Name": "poponax",
+        "State_and_Province": "FL",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACTO_001_shp.jpg"
+    },
+    {
+        "Symbol": "ACTR",
+        "Common_Name": "sweet after death",
+        "State_and_Province": "CA, OR, WA",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACTR_001_shp.jpg"
+    },
+    {
+        "Symbol": "ACUN",
+        "Common_Name": "southern blue monkshood",
+        "State_and_Province": "AL, DC, GA, IL, IN, KY, MD, MO, NC, NH, OH, PA, SC, TN, VA, WV",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACUN_002_svp.jpg"
+    },
+    {
+        "Symbol": "ACVE2",
+        "Common_Name": "prickly Moses",
+        "State_and_Province": "CA",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACVE2_001_shp.jpg"
+    },
+    {
+        "Symbol": "ACVI",
+        "Common_Name": "Virginia threeseed mercury",
+        "State_and_Province": "AL, AR, CT, DC, DE, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MO, MS, NC, NE, NH, NJ, NY, OH, OK, PA, RI, SC, SD, TN, TX, VA, VT, WV",
+        "Category": "Dicot",
+        "Active_Growth_Period": "Spring, Summer, Fall",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACVI_002_shp.jpg"
+    },
+    {
+        "Symbol": "ACWR4",
+        "Common_Name": "Everglades palm",
+        "State_and_Province": "FL",
+        "Category": "Monocot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACWR4_001_svp.jpg"
+    },
+    {
+        "Symbol": "ACWR5",
+        "Common_Name": "brownfoot",
+        "State_and_Province": "AZ, NM, NV, TX, UT",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ACWR5_001_shp.jpg"
+    },
+    {
+        "Symbol": "ADAL",
+        "Common_Name": "Aleutian maidenhair",
+        "State_and_Province": "AK, AZ, CA, CO, ID, MD, ME, MI, MT, NV, OR, PA, UT, VT, WA, WV, WY",
+        "Category": "Fern",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ADAL_001_shp.jpg"
+    },
+    {
+        "Symbol": "ADBI",
+        "Common_Name": "American trailplant",
+        "State_and_Province": "CA, ID, MI, MN, MT, ND, OR, SD, WA, WY",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ADBI_002_shp.jpg"
+    },
+    {
+        "Symbol": "ADCA",
+        "Common_Name": "common maidenhair",
+        "State_and_Province": "AL, AR, AZ, CA, CO, FL, GA, HI, KY, LA, MD, MO, MS, NC, NM, NV, OH, OK, SC, SD, TN, TX, UT, VA",
+        "Category": "Fern",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ADCA_002_shp.jpg"
+    },
+    {
+        "Symbol": "ADFA",
+        "Common_Name": "chamise",
+        "State_and_Province": "CA, NV",
+        "Category": "Dicot",
+        "Active_Growth_Period": "Fall, Winter and Spring",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ADFA_001_svp.jpg"
+    },
+    {
+        "Symbol": "ADFAF",
+        "Common_Name": "chamise",
+        "State_and_Province": "CA, NV",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ADFAF_001_shp.jpg"
+    },
+    {
+        "Symbol": "ADFU",
+        "Common_Name": "allegheny vine",
+        "State_and_Province": "CT, DE, IA, IL, IN, KY, MA, MD, ME, MI, MN, NC, NH, NJ, NY, OH, PA, RI, TN, VA, VT, WI, WV",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ADFU_002_shp.jpg"
+    },
+    {
+        "Symbol": "ADHI",
+        "Common_Name": "rough maidenhair",
+        "State_and_Province": "AL, CT, GA, HI, LA",
+        "Category": "Fern",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ADHI_001_shp.jpg"
+    },
+    {
+        "Symbol": "ADIAN",
+        "Common_Name": "maidenhair fern",
+        "State_and_Province": ", AK, AL, AR, AZ, CA, CO, CT, DC, DE, FL, GA, HI, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, NE, NH, NJ, NM, NV, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, UT, VA, VT, WA, WI, WV, WY",
+        "Category": "Fern",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ADIAN_001_svp.jpg"
+    },
+    {
+        "Symbol": "ADJO",
+        "Common_Name": "California maidenhair",
+        "State_and_Province": "CA, OR",
+        "Category": "Fern",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ADJO_001_shp.jpg"
+    },
+    {
+        "Symbol": "ADMO",
+        "Common_Name": "muskroot",
+        "State_and_Province": "AK, CO, IA, IL, MN, MT, NM, NY, SD, UT, WI, WY",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ADMO_002_svp.jpg"
+    },
+    {
+        "Symbol": "ADPA",
+        "Common_Name": "red beadtree",
+        "State_and_Province": "FL, HI",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ADPA_001_shp.jpg"
+    },
+    {
+        "Symbol": "ADPE",
+        "Common_Name": "northern maidenhair",
+        "State_and_Province": "AL, AR, CT, DC, DE, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, NE, NH, NJ, NY, OH, OK, PA, RI, SC, SD, TN, VA, VT, WI, WV",
+        "Category": "Fern",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ADPE_002_shp.jpg"
+    },
+    {
+        "Symbol": "ADPO",
+        "Common_Name": "San Felipe dogweed",
+        "State_and_Province": "AZ, CA, NV",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ADPO_001_shp.jpg"
+    },
+    {
+        "Symbol": "ADSP",
+        "Common_Name": "redshank",
+        "State_and_Province": "CA",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ADSP_001_shp.jpg"
+    },
+    {
+        "Symbol": "ADVE",
+        "Common_Name": "spring pheasant's eye",
+        "State_and_Province": "NY",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/ADVE_001_shp.jpg"
+    },
+    {
+        "Symbol": "AEAM",
+        "Common_Name": "shyleaf",
+        "State_and_Province": "AL, FL, GA, LA, MD",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/AEAM_001_svp.jpg"
+    },
+    {
+        "Symbol": "AEAR4",
+        "Common_Name": "tree aenium",
+        "State_and_Province": "CA",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/AEAR4_001_svp.jpg"
+    },
+    {
+        "Symbol": "AECA",
+        "Common_Name": "California buckeye",
+        "State_and_Province": "CA, OR",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/AECA_001_shp.jpg"
+    },
+    {
+        "Symbol": "AECE",
+        "Common_Name": "relaxgrass",
+        "State_and_Province": "CA",
+        "Category": "Monocot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/AECE_001_shp.jpg"
+    },
+    {
+        "Symbol": "AECR",
+        "Common_Name": "Persian goatgrass",
+        "State_and_Province": "NY",
+        "Category": "Monocot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/AECR_001_shp.jpg"
+    },
+    {
+        "Symbol": "AECY",
+        "Common_Name": "jointed goatgrass",
+        "State_and_Province": "AL, AR, AZ, CA, CO, IA, ID, IL, IN, KS, KY, LA, MI, MO, MT, ND, NE, NM, NV, NY, OH, OK, OR, PA, SD, TN, TX, UT, VA, WA, WV, WY",
+        "Category": "Monocot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/AECY_002_shp.jpg"
+    },
+    {
+        "Symbol": "AECY2",
+        "Common_Name": "fool's parsley",
+        "State_and_Province": "AL, CT, DE, ID, IL, IN, KY, MA, ME, MI, MN, NJ, NY, OH, PA, RI, WI, WV",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/AECY2_002_shp.jpg"
+    },
+    {
+        "Symbol": "AEFL",
+        "Common_Name": "yellow buckeye",
+        "State_and_Province": "AL, DC, GA, IL, IN, KY, MD, MS, NC, NJ, NY, OH, PA, SC, TN, VA, WV",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/AEFL_001_svp.jpg"
+    },
+    {
+        "Symbol": "AEGE",
+        "Common_Name": "ovate goatgrass",
+        "State_and_Province": "CA, NY, VA",
+        "Category": "Monocot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/AEGE_001_shp.jpg"
+    },
+    {
+        "Symbol": "AEGIL",
+        "Common_Name": "goatgrass",
+        "State_and_Province": "AL, AR, AZ, CA, CO, IA, ID, IL, IN, KS, KY, LA, MD, MI, MO, MT, ND, NE, NM, NV, NY, OH, OK, OR, PA, SD, TN, TX, UT, VA, WA, WV, WY",
+        "Category": "Monocot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/AEGIL_001_shp.jpg"
+    },
+    {
+        "Symbol": "AEGL",
+        "Common_Name": "Ohio buckeye",
+        "State_and_Province": "AL, AR, GA, IA, IL, IN, KS, KY, ME, MI, MN, MO, MS, NE, NH, NJ, NY, OH, OK, PA, TN, TX, VA, WI, WV",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/AEGL_002_shp.jpg"
+    },
+    {
+        "Symbol": "AEHA2",
+        "Common_Name": "Haworth's aeonium",
+        "State_and_Province": "CA",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/AEHA2_001_shp.jpg"
+    },
+    {
+        "Symbol": "AEHI",
+        "Common_Name": "horse chestnut",
+        "State_and_Province": "CT, GA, IA, IL, IN, KY, MA, MD, ME, MI, MN, NC, NJ, NY, OH, OR, PA, RI, SC, VA, WA, WV",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/AEHI_002_shp.jpg"
+    },
+    {
+        "Symbol": "AEIN",
+        "Common_Name": "Indian jointvetch",
+        "State_and_Province": "AL, AR, FL, GA, LA, MO, MS, NC, OK, SC, TX, VA",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/AEIN_001_shp.jpg"
+    },
+    {
+        "Symbol": "AEONI",
+        "Common_Name": "aeonium",
+        "State_and_Province": "CA",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/AEONI_001_shp.jpg"
+    },
+    {
+        "Symbol": "AEPA2",
+        "Common_Name": "bottlebrush buckeye",
+        "State_and_Province": "AL, DC, GA, NJ, NY, PA, SC",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/AEPA2_001_shp.jpg"
+    },
+    {
+        "Symbol": "AERU",
+        "Common_Name": "zigzag jointvetch",
+        "State_and_Province": "AL, AR, CA, FL, GA, LA, MO, NC, PA, SC, TX",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/AERU_001_shp.jpg"
+    },
+    {
+        "Symbol": "AESCU",
+        "Common_Name": "buckeye",
+        "State_and_Province": "AL, AR, CA, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, NE, NH, NJ, NY, OH, OK, OR, PA, RI, SC, TN, TX, VA, WA, WI, WV",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/AESCU_002_svp.jpg"
+    },
+    {
+        "Symbol": "AETR",
+        "Common_Name": "barbed goatgrass",
+        "State_and_Province": "CA, MD, NV, NY, OR, PA",
+        "Category": "Monocot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/AETR_002_shp.jpg"
+    },
+    {
+        "Symbol": "AEVI",
+        "Common_Name": "sticky jointvetch",
+        "State_and_Province": "AL, FL, GA, MS, TX",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/AEVI_001_shp.jpg"
+    },
+    {
+        "Symbol": "AEVI3",
+        "Common_Name": "Virginia jointvetch",
+        "State_and_Province": "DE, MD, NC, NJ, PA, VA",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/AEVI3_002_shp.jpg"
+    },
+    {
+        "Symbol": "AGALA",
+        "Common_Name": "white snakeroot",
+        "State_and_Province": "AL, AR, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, ND, NE, NH, NJ, NY, OH, OK, PA, RI, SC, SD, TN, TX, VA, VT, WI, WV",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/AGALA_001_svp.jpg"
+    },
+    {
+        "Symbol": "AGAP2",
+        "Common_Name": "woolly goat chicory",
+        "State_and_Province": "CA, OR, WA",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/AGAP2_001_svp.jpg"
+    },
+    {
+        "Symbol": "AGAP3",
+        "Common_Name": "scaleleaf false foxglove",
+        "State_and_Province": "AL, FL, GA, LA, MS, NC, SC",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/AGAP3_001_svp.jpg"
+    },
+    {
+        "Symbol": "AGAPA2",
+        "Common_Name": "agapanthus",
+        "State_and_Province": "CA",
+        "Category": "Monocot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/AGAPA2_001_shp.jpg"
+    },
+    {
+        "Symbol": "AGAPE",
+        "Common_Name": "woolly goat chicory",
+        "State_and_Province": "CA, OR, WA",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/AGAPE_001_shp.jpg"
+    },
+    {
+        "Symbol": "AGARA",
+        "Common_Name": "lesser snakeroot",
+        "State_and_Province": "AL, CT, DC, DE, FL, GA, KY, LA, MA, MD, MS, NC, NJ, NY, OH, PA, RI, SC, TN, VA, WV",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/AGARA_001_svp.jpg"
+    },
+    {
+        "Symbol": "AGAU2",
+        "Common_Name": "orange agoseris",
+        "State_and_Province": "AK, AZ, CA, CO, ID, MT, NM, NV, OR, SD, UT, WA, WY",
+        "Category": "Dicot",
+        "Active_Growth_Period": "Spring and Summer",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/AGAU2_001_shp.jpg"
+    },
+    {
+        "Symbol": "AGAUA",
+        "Common_Name": "orange agoseris",
+        "State_and_Province": "AK, CA, CO, ID, MT, NM, NV, OR, SD, UT, WA, WY",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/AGAUA_001_shp.jpg"
+    },
+    {
+        "Symbol": "AGAVE",
+        "Common_Name": "agave",
+        "State_and_Province": "AZ, CA, FL, HI, LA, NM, NV, TX, UM, UT",
+        "Category": "Monocot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/AGAVE_001_svp.jpg"
+    },
+    {
+        "Symbol": "AGCA11",
+        "Common_Name": "bentgrass",
+        "State_and_Province": "CA, OR",
+        "Category": "Monocot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/AGCA11_001_shp.jpg"
+    },
+    {
+        "Symbol": "AGCL",
+        "Common_Name": "clavate bentgrass",
+        "State_and_Province": "AK",
+        "Category": "Monocot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/AGCL_001_shp.jpg"
+    },
+    {
+        "Symbol": "AGCO2",
+        "Common_Name": "flat-top whiteweed",
+        "State_and_Province": "AZ, NM, TX",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/AGCO2_001_shp.jpg"
+    },
+    {
+        "Symbol": "AGCO4",
+        "Common_Name": "Philippine evergreen",
+        "State_and_Province": "FL",
+        "Category": "Monocot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/AGCO4_001_svp.jpg"
+    },
+    {
+        "Symbol": "AGCR",
+        "Common_Name": "crested wheatgrass",
+        "State_and_Province": "AK, CA, CO, CT, DE, IA, ID, IL, IN, KS, KY, MA, MI, MN, MT, ND, NE, NH, NM, NV, NY, OK, OR, SD, TX, UT, WA, WY",
+        "Category": "Monocot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/AGCR_001_svp.jpg"
+    },
+    {
+        "Symbol": "AGDE",
+        "Common_Name": "desert agave",
+        "State_and_Province": "AZ, CA",
+        "Category": "Monocot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/AGDE_001_shp.jpg"
+    },
+    {
+        "Symbol": "AGDE2",
+        "Common_Name": "desert wheatgrass",
+        "State_and_Province": "AZ, CA, CO, IA, IL, IN, KS, MA, MO, MT, ND, NM, NV, NY, OH, OR, SD, TX, UT, WI, WY",
+        "Category": "Monocot",
+        "Active_Growth_Period": "Spring and Fall",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/AGDE2_002_svp.jpg"
+    },
+    {
+        "Symbol": "AGDED",
+        "Common_Name": "desert agave",
+        "State_and_Province": "CA",
+        "Category": "Monocot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/AGDED_001_svp.jpg"
+    },
+    {
+        "Symbol": "AGEL",
+        "Common_Name": "tall agoseris",
+        "State_and_Province": "CA, NV, OR, WA",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/AGEL_001_shp.jpg"
+    },
+    {
+        "Symbol": "AGEU",
+        "Common_Name": "churchsteeples",
+        "State_and_Province": "CA, CT, IA, MA, MN, NC, NY, OH, PA, WY",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/AGEU_001_shp.jpg"
+    },
+    {
+        "Symbol": "AGEX",
+        "Common_Name": "spike bentgrass",
+        "State_and_Province": "AK, AZ, CA, CO, ID, KY, MT, NE, NM, NV, OK, OR, SD, TX, UT, VT, WA, WY",
+        "Category": "Monocot",
+        "Active_Growth_Period": "Spring, Summer, Fall",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/AGEX_001_svp.jpg"
+    },
+    {
+        "Symbol": "AGFA2",
+        "Common_Name": "beach false foxglove",
+        "State_and_Province": "AL, AR, DE, FL, GA, IL, IN, KS, KY, LA, MD, MO, MS, NC, NJ, NY, OK, PA, SC, TN, TX, VA",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/AGFA2_002_svp.jpg"
+    },
+    {
+        "Symbol": "AGFR",
+        "Common_Name": "Siberian wheatgrass",
+        "State_and_Province": "CO, MT, NM, NV, SD, UT, WY",
+        "Category": "Monocot",
+        "Active_Growth_Period": "Spring and Fall",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/AGFR_001_svp.jpg"
+    },
+    {
+        "Symbol": "AGGI",
+        "Common_Name": "common corncockle",
+        "State_and_Province": "AK, AL, AR, CA, CO, CT, DC, DE, FL, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, NC, ND, NE, NH, NJ, NM, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, VA, VT, WA, WI, WV, WY",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/AGGI_002_shp.jpg"
+    },
+    {
+        "Symbol": "AGGI2",
+        "Common_Name": "redtop",
+        "State_and_Province": "AK, AL, AR, AZ, CA, CO, CT, DC, DE, GA, IA, ID, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, MT, ND, NE, NH, NJ, NM, NV, NY, OH, OK, OR, PA, RI, SC, TN, TX, UT, VA, VT, WA, WI, WV, WY",
+        "Category": "Monocot",
+        "Active_Growth_Period": "Spring and Summer",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/AGGI2_001_svp.jpg"
+    },
+    {
+        "Symbol": "AGGLD",
+        "Common_Name": "pale agoseris",
+        "State_and_Province": "AK, AZ, CO, ID, MT, ND, OR, SD, UT, WA, WY",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/AGGLD_001_shp.jpg"
+    },
+    {
+        "Symbol": "AGGLG",
+        "Common_Name": "pale agoseris",
+        "State_and_Province": "AZ, CA, CO, IA, ID, MI, MN, MT, ND, NE, NM, NV, OR, SD, UT, WA, WY",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/AGGLG_001_shp.jpg"
+    },
+    {
+        "Symbol": "AGGLL",
+        "Common_Name": "false agoseris",
+        "State_and_Province": "AZ, CA, CO, ID, KS, MN, MT, ND, NM, NV, OR, UT, WY",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/AGGLL_001_svp.jpg"
+    },
+    {
+        "Symbol": "AGGR",
+        "Common_Name": "bigflower agoseris",
+        "State_and_Province": "CA, ID, MT, NV, OR, UT, WA",
+        "Category": "Dicot",
+        "Active_Growth_Period": "Spring",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/AGGR_001_shp.jpg"
+    },
+    {
+        "Symbol": "AGGR2",
+        "Common_Name": "tall hairy agrimony",
+        "State_and_Province": "AL, AR, AZ, CA, CT, DE, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, ND, NE, NH, NJ, NM, NY, OH, OR, PA, RI, SC, SD, TN, VA, VT, WA, WI, WV, WY",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/AGGR2_002_shp.jpg"
+    },
+    {
+        "Symbol": "AGGR4",
+        "Common_Name": "slimfoot century plant",
+        "State_and_Province": "NM, TX",
+        "Category": "Monocot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/AGGR4_001_shp.jpg"
+    },
+    {
+        "Symbol": "AGHE4",
+        "Common_Name": "prairie false foxglove",
+        "State_and_Province": "AL, AR, GA, KS, LA, MO, MS, OK, TN, TX",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/AGHE4_002_svp.jpg"
+    },
+    {
+        "Symbol": "AGHE5",
+        "Common_Name": "fragrant snakeroot",
+        "State_and_Province": "AZ, CA, CO, NM, NV, TX, UT",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/AGHE5_001_shp.jpg"
+    },
+    {
+        "Symbol": "AGHEH",
+        "Common_Name": "annual agoseris",
+        "State_and_Province": "AZ, CA, CO, ID, MT, NM, NV, OR, UT, WA",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/AGHEH_001_svp.jpg"
+    },
+    {
+        "Symbol": "AGHY",
+        "Common_Name": "winter bentgrass",
+        "State_and_Province": "AL, AR, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, NE, NH, NJ, NY, OH, OK, PA, RI, SC, SD, TN, TX, VA, VT, WI, WV",
+        "Category": "Monocot",
+        "Active_Growth_Period": "Spring, Summer, Fall",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/AGHY_002_svp.jpg"
+    },
+    {
+        "Symbol": "AGID",
+        "Common_Name": "Idaho bentgrass",
+        "State_and_Province": "AK, AZ, CA, CO, ID, MT, NM, NV, OR, UT, WA, WY",
+        "Category": "Monocot",
+        "Active_Growth_Period": "Spring, Summer, Fall",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/AGID_001_svp.jpg"
+    },
+    {
+        "Symbol": "AGLE",
+        "Common_Name": "lechuguilla",
+        "State_and_Province": "NM, TX",
+        "Category": "Monocot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/AGLE_001_svp.jpg"
+    },
+    {
+        "Symbol": "AGLU",
+        "Common_Name": "Lucy Braun's snakeroot",
+        "State_and_Province": "KY, TN",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/AGLU_001_shp.jpg"
+    },
+    {
+        "Symbol": "AGMA3",
+        "Common_Name": "saltmarsh false foxglove",
+        "State_and_Province": "AL, CT, DE, FL, LA, MA, MD, ME, MS, NC, NH, NJ, NY, RI, SC, TX, VA",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/AGMA3_002_svp.jpg"
+    },
+    {
+        "Symbol": "AGMAM",
+        "Common_Name": "saltmarsh false foxglove",
+        "State_and_Province": "CT, DE, MA, MD, ME, NC, NH, NJ, NY, RI, VA",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/AGMAM_001_svp.jpg"
+    },
+    {
+        "Symbol": "AGNE2",
+        "Common_Name": "yellow giant hyssop",
+        "State_and_Province": "AL, AR, CT, DC, DE, GA, IA, IL, IN, KS, KY, MA, MD, MI, MN, MO, NC, NE, NJ, NY, OH, OK, PA, SC, SD, TN, VA, VT, WI, WV",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/AGNE2_002_svp.jpg"
+    },
+    {
+        "Symbol": "AGOC",
+        "Common_Name": "western giant hyssop",
+        "State_and_Province": "OR, WA",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/AGOC_001_svp.jpg"
+    },
+    {
+        "Symbol": "AGOC2",
+        "Common_Name": "western snakeroot",
+        "State_and_Province": "CA, ID, MT, NV, OR, UT, WA",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/AGOC2_001_shp.jpg"
+    },
+    {
+        "Symbol": "AGOSE",
+        "Common_Name": "agoseris",
+        "State_and_Province": "AK, AZ, CA, CO, IA, ID, KS, MI, MN, MT, ND, NE, NM, NV, OR, SD, UT, WA, WY",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/AGOSE_001_shp.jpg"
+    },
+    {
+        "Symbol": "AGPA",
+        "Common_Name": "Bill Williams Mountain giant hyssop",
+        "State_and_Province": "AZ, CO, NM, TX",
+        "Category": "Dicot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/AGPA_001_shp.jpg"
+    },
+    {
+        "Symbol": "AGPA2",
+        "Common_Name": "smallleaf giant hyssop",
+        "State_and_Province": "CA",
+        "Category": "Dicot",
+        "Active_Growth_Period": "Spring and Summer",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/AGPA2_001_shp.jpg"
+    },
+    {
+        "Symbol": "AGPA3",
+        "Common_Name": "Palmer's century plant",
+        "State_and_Province": "AZ, NM",
+        "Category": "Monocot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/AGPA3_001_shp.jpg"
+    },
+    {
+        "Symbol": "AGPA4",
+        "Common_Name": "Parry's agave",
+        "State_and_Province": "AZ, NM, TX",
+        "Category": "Monocot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/AGPA4_001_svp.jpg"
+    },
+    {
+        "Symbol": "AGPA5",
+        "Common_Name": "smallflower century plant",
+        "State_and_Province": "AZ",
+        "Category": "Monocot",
+        "Active_Growth_Period": "",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/AGPA5_001_shp.jpg"
+    },
+    {
+        "Symbol": "AGPA6",
+        "Common_Name": "harvestlice",
+        "State_and_Province": "AL, AR, CT, DC, DE, GA, IA, IL, IN, KS, KY, LA, MA, MD, MI, MO, MS, NC, NE, NJ, NY, OH, OK, PA, SC, SD, TN, TX, VA, WI, WV",
+        "Category": "Dicot",
+        "Active_Growth_Period": "Spring and Summer",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/AGPA6_002_svp.jpg"
+    },
+    {
+        "Symbol": "AGPE",
+        "Common_Name": "upland bentgrass",
+        "State_and_Province": "AL, AR, CA, CT, DC, DE, FL, GA, IA, IL, IN, KS, KY, LA, MA, MD, ME, MI, MN, MO, MS, NC, ND, NE, NH, NJ, NY, OH, OK, OR, PA, RI, SC, SD, TN, TX, VA, VT, WA, WI, WV",
+        "Category": "Monocot",
+        "Active_Growth_Period": "Spring, Summer, Fall",
+        "Photo_URL": "https://plants.sc.egov.usda.gov/gallery/standard/AGPE_002_svp.jpg"
+    }
+]

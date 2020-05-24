@@ -15,6 +15,8 @@
 		552519192478A7B800DFF445 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 552519182478A7B800DFF445 /* ViewController.swift */; };
 		5525191B24797DCB00DFF445 /* ToFindItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5525191A24797DCB00DFF445 /* ToFindItem.swift */; };
 		5525191F2479F48300DFF445 /* mockdata.json in Resources */ = {isa = PBXBuildFile; fileRef = 5525191E2479F48300DFF445 /* mockdata.json */; };
+		55251926247A04A000DFF445 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 55251924247A04A000DFF445 /* Default@2x.png */; };
+		55251927247A04A000DFF445 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 55251925247A04A000DFF445 /* Default.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +30,8 @@
 		552519182478A7B800DFF445 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		5525191A24797DCB00DFF445 /* ToFindItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToFindItem.swift; sourceTree = "<group>"; };
 		5525191E2479F48300DFF445 /* mockdata.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = mockdata.json; sourceTree = "<group>"; };
+		55251924247A04A000DFF445 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
+		55251925247A04A000DFF445 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +64,8 @@
 		552518E12478397100DFF445 /* wildeye */ = {
 			isa = PBXGroup;
 			children = (
+				55251925247A04A000DFF445 /* Default.png */,
+				55251924247A04A000DFF445 /* Default@2x.png */,
 				552518E22478397100DFF445 /* AppDelegate.swift */,
 				552518E42478397100DFF445 /* SceneDelegate.swift */,
 				552518E82478397100DFF445 /* Main.storyboard */,
@@ -132,7 +138,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				552518EF2478397600DFF445 /* LaunchScreen.storyboard in Resources */,
+				55251927247A04A000DFF445 /* Default.png in Resources */,
 				5525191F2479F48300DFF445 /* mockdata.json in Resources */,
+				55251926247A04A000DFF445 /* Default@2x.png in Resources */,
 				552518EC2478397600DFF445 /* Assets.xcassets in Resources */,
 				552518EA2478397100DFF445 /* Main.storyboard in Resources */,
 			);
