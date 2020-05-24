@@ -79,11 +79,13 @@ class ViewController: UITableViewController {
     }
     
     @objc public func applicationDidEnterBackground(_ notification: NSNotification) {
+        
         do {
             try itemsToFind.writeToPersistence()
         } catch let error {
             NSLog("Error writing to persistence: \(error)")
         }
+        
     }
     
     // on tap of new list button: send alert asking if user is sure
@@ -103,20 +105,65 @@ class ViewController: UITableViewController {
         }))
         
         self.present(alert, animated: true, completion: nil)
-        
+    
     }
     
     // generate new scavenger hunt list
     func generateNewList() {
         
+        self.getJSONData()
+    
+    }
+    
+    // convert json file data to Swift objects
+    struct EOLItem: Codable {
+        var name:String
+        var first_name:String
+        var last_name:String
+    }
+    func getJSONData() {
+        print("getjsondata")
+        
+        if let data = self.readLocalFile(forName: "mockdata") {
+            self.parseData(jsonData: data)
+        }
+        
+    }
+    private func readLocalFile(forName filename: String) -> Data? {
+        print("readlocalfile")
+        
+        do {
+            if let bundlePath = Bundle.main.path(forResource: filename, ofType: "json"), let jsonData = try String(contentsOfFile: bundlePath).data(using: .utf8) {
+                return jsonData
+            }
+        } catch {
+            print(error)
+        }
+        return nil
+        
+    }
+    private func parseData(jsonData: Data) {
+        print("parsedata")
+        
+        do {
+            let decodedItem = try JSONDecoder().decode(EOLItem.self, from: jsonData)
+            print(decodedItem.name)
+            print(decodedItem.first_name)
+            print(decodedItem.last_name)
+        } catch {
+            print(error)
+        }
+        
     }
     
     // create new list item and add to tableview
     private func addNewListItem(title: String) {
+        
         let newIndex = itemsToFind.count
         // create new list item and append to list
         itemsToFind.append(ToFindItem(title: title))
         tableView.insertRows(at: [IndexPath(row: newIndex, section: 0)], with: .top)
+    
     }
 
 }
