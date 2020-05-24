@@ -146,10 +146,10 @@ class ViewController: UITableViewController {
         print("parsedata")
         
         do {
-            let decodedItem = try JSONDecoder().decode(EOLItem.self, from: jsonData)
-            print(decodedItem.name)
-            print(decodedItem.first_name)
-            print(decodedItem.last_name)
+            let decodedItem = try JSONDecoder().decode([EOLItem].self, from: jsonData)
+            print(decodedItem[0].name)
+            print(decodedItem[1].first_name)
+            print(decodedItem[0].last_name)
         } catch {
             print(error)
         }
