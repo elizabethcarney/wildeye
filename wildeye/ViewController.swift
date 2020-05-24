@@ -16,7 +16,9 @@ class ViewController: UITableViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         self.title = "Scavenger Hunt"
-        self.navigationItem.rightBarButtonItem = UIBarButtonItem(title: "New List", style: .plain, target: self, action: #selector(ViewController.didTapNewListButton(_:)))
+        //self.navigationItem.rightBarButtonItem = UIBarButtonItem(title: "New", style: .plain, target: self, action: #selector(ViewController.didTapNewListButton(_:)))
+        
+        self.tableView.rowHeight = 70.0
         
         // call applicationDidEnterBackground() when app about to close
         NotificationCenter.default.addObserver(self, selector: #selector(UIApplicationDelegate.applicationDidEnterBackground(_:)), name: UIApplication.didEnterBackgroundNotification, object: nil)
@@ -56,6 +58,7 @@ class ViewController: UITableViewController {
         if indexPath.row < itemsToFind.count {
             let item = itemsToFind[indexPath.row]
             cell.textLabel?.text = item.title
+            //cell.imageView?.image = self.getPhoto()
             
             let accessory: UITableViewCell.AccessoryType = item.found ? .checkmark : .none
             cell.accessoryType = accessory
@@ -89,37 +92,57 @@ class ViewController: UITableViewController {
     }
     
     // on tap of new list button: send alert asking if user is sure
-    @objc func didTapNewListButton(_ sender: UIBarButtonItem) {
+    //@objc func didTapNewListButton(_ sender: UIBarButtonItem) {
         
-        let alert = UIAlertController(
-            title: "",
-            message: "Are you sure you want to generate a new scavenger hunt list?",
-            preferredStyle: .alert)
+        //let alert = UIAlertController(
+            //title: "",
+            //message: "Are you sure you want to generate a new scavenger hunt list?",
+            //preferredStyle: .alert)
         
         // add cancel button to alert
-        alert.addAction(UIAlertAction(title: "Cancel", style: .cancel, handler: nil))
+        //alert.addAction(UIAlertAction(title: "Cancel", style: .cancel, handler: nil))
         
         // add ok button to alert that fires new list generation
-        alert.addAction(UIAlertAction(title: "OK", style: .default, handler: {
-            (_) in self.generateNewList()
-        }))
+        //alert.addAction(UIAlertAction(title: "OK", style: .default, handler: {
+            //(_) in self.generateNewList()
+        //}))
         
-        self.present(alert, animated: true, completion: nil)
+        //self.present(alert, animated: true, completion: nil)
     
-    }
+    //}
     
     // generate new scavenger hunt list
-    func generateNewList() {
+    //func generateNewList() {
         
-        self.getJSONData()
+        //self.getJSONData()
+        
+        //itemsToFind.removeAll()
+        //tableView.reloadData()
+        
+                
+        //itemsToFind = ToFindItem.getMockData2()
+
+        //var index = 0
+        //for item in itemsToFind {
+           //let indexPath = IndexPath(row: index, section: 0)
+            //if indexPath.row < itemsToFind.count {
+                //addNewListItem(title: item.title)
+                
+                //tableView.reloadRows(at: [indexPath], with: .automatic)
+            //}
+           //index = index + 1
+        //}
     
-    }
+    //}
     
     // convert json file data to Swift objects
-    struct EOLItem: Codable {
-        var name:String
-        var first_name:String
-        var last_name:String
+    struct JSONItem: Codable {
+        var Symbol:String
+        var Common_Name:String
+        var State_and_Province:String
+        var Category:String
+        var Active_Growth_Period:String
+        var Photo_URL:String
     }
     func getJSONData() {
         print("getjsondata")
@@ -146,10 +169,13 @@ class ViewController: UITableViewController {
         print("parsedata")
         
         do {
-            let decodedItem = try JSONDecoder().decode([EOLItem].self, from: jsonData)
-            print(decodedItem[0].name)
-            print(decodedItem[1].first_name)
-            print(decodedItem[0].last_name)
+            let decodedItem = try JSONDecoder().decode([JSONItem].self, from: jsonData)
+            print(decodedItem[0].Symbol)
+            print(decodedItem[0].Common_Name)
+            print(decodedItem[0].State_and_Province)
+            print(decodedItem[0].Category)
+            print(decodedItem[0].Active_Growth_Period)
+            print(decodedItem[0].Photo_URL)
         } catch {
             print(error)
         }
@@ -166,8 +192,7 @@ class ViewController: UITableViewController {
     
     }
     
-    private func getPhoto() {
-        
+    func getPhoto() {
         let photoURL = URL(string: "https://plants.sc.egov.usda.gov/gallery/standard/echin4_001_svp.jpg")!
         
         let session = URLSession(configuration: .default)
@@ -188,10 +213,9 @@ class ViewController: UITableViewController {
                 }
             }
         }
-        downloadPicTask.resume()
         
+        downloadPicTask.resume()
     }
-    
 
 }
 

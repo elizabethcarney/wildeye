@@ -17,6 +17,7 @@
 		5525191F2479F48300DFF445 /* mockdata.json in Resources */ = {isa = PBXBuildFile; fileRef = 5525191E2479F48300DFF445 /* mockdata.json */; };
 		55251926247A04A000DFF445 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 55251924247A04A000DFF445 /* Default@2x.png */; };
 		55251927247A04A000DFF445 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 55251925247A04A000DFF445 /* Default.png */; };
+		5525192B247A558700DFF445 /* FindListTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5525192A247A558700DFF445 /* FindListTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		5525191E2479F48300DFF445 /* mockdata.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = mockdata.json; sourceTree = "<group>"; };
 		55251924247A04A000DFF445 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
 		55251925247A04A000DFF445 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		5525192A247A558700DFF445 /* FindListTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindListTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +77,7 @@
 				552519182478A7B800DFF445 /* ViewController.swift */,
 				5525191A24797DCB00DFF445 /* ToFindItem.swift */,
 				5525191E2479F48300DFF445 /* mockdata.json */,
+				5525192A247A558700DFF445 /* FindListTableViewController.swift */,
 			);
 			path = wildeye;
 			sourceTree = "<group>";
@@ -157,6 +160,7 @@
 				5525191B24797DCB00DFF445 /* ToFindItem.swift in Sources */,
 				552518E52478397100DFF445 /* SceneDelegate.swift in Sources */,
 				552519192478A7B800DFF445 /* ViewController.swift in Sources */,
+				5525192B247A558700DFF445 /* FindListTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

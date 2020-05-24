@@ -11,10 +11,12 @@ import Foundation
 class ToFindItem: NSObject, NSCoding {
    
     var title: String
+    //var image: String
     var found: Bool
     
     public init(title: String) {
         self.title = title
+        //self.image = image
         self.found = false
     }
     
@@ -47,12 +49,16 @@ class ToFindItem: NSObject, NSCoding {
 extension ToFindItem {
     public class func getMockData() -> [ToFindItem] {
         return [
-            ToFindItem(title: "Pinecone"),
-            ToFindItem(title: "Robin"),
-            ToFindItem(title: "Rabbit"),
-            ToFindItem(title: "Birch Tree"),
-            ToFindItem(title: "Deer"),
-            ToFindItem(title: "Magnolia Leaf"),
+            ToFindItem(title: "Balsam fir"),
+            ToFindItem(title: "Okra"),
+            ToFindItem(title: "Acacia"),
+            ToFindItem(title: "Velvetleaf"),
+            ToFindItem(title: "Indian mallow"),
+            ToFindItem(title: "Common yarrow"),
+            ToFindItem(title: "Sycamore maple"),
+            ToFindItem(title: "Northern maidenhair"),
+            ToFindItem(title: "Yellow buckeye"),
+            ToFindItem(title: "Horse chestnut"),
         ]
     }
 }
